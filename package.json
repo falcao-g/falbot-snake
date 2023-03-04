@@ -1,0 +1,25 @@
+{
+	"name": "falbot-snake",
+	"version": "1.0.0",
+	"description": "NPM Package to play the snake game on falbot",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/falcao-g/falbot-snake.git"
+	},
+	"keywords": [
+		"discord",
+		"bot",
+		"snake",
+		"game"
+	],
+	"author": "Falcão",
+	"license": "GNU 3.0",
+	"bugs": {
+		"url": "https://github.com/falcao-g/falbot-snake/issues"
+	},
+	"homepage": "https://github.com/falcao-g/falbot-snake#readme"
+}
