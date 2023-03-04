@@ -16,7 +16,8 @@ game.snakeMovement(game.snake, "W")
 game.snakeMovement(game.snake, "E")
 game.snakeMovement(game.snake, "S")
 
-game.world2string(game.world, game.snake),
+//get the game field
+game.world2string(game.world, game.snake)
 
 //you can automatically move the snake in the last direction moved when the time expires
 var myTimer = setInterval(async function () {
