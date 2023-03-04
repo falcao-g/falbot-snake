@@ -1,6 +1,6 @@
 {
 	"name": "falbot-snake",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "NPM Package to play the snake game on falbot",
 	"main": "index.js",
 	"scripts": {
